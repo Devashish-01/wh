@@ -1,0 +1,176 @@
+{
+    "liabilities": {
+        "anupam": {
+            "active": true,
+            "active_no_of_loan": 2,
+            "loans": {
+                "1": {
+                    "active": true,
+                    "transaction_date": "2024-12-24",
+                    "registration_time": "2024-12-24 11:40:11.475032",
+                    "date_of_data_entry": "2024-12-24",
+                    "main_principal": 100000.0,
+                    "current_principal": 100000.0,
+                    "interest_rate": 2.0,
+                    "interest_payment_interval_months": 12.0,
+                    "deadline_months": 24.0,
+                    "remark": "",
+                    "upcoming_emi_list": [
+                        {
+                            "date": "2025-12-24 2024-12-24 11:40:11.475032",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "anupam",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2026-12-24 2024-12-24 11:40:11.475032",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "anupam",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2027-12-24 2024-12-24 11:40:11.475032",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "anupam",
+                            "id": 1,
+                            "remark": []
+                        }
+                    ],
+                    "repayment_list": {},
+                    "Interest_accumulated_till_today": [
+                        0.0,
+                        0.0
+                    ],
+                    "final_amount": 100000.0
+                },
+                "2": {
+                    "active": true,
+                    "transaction_date": "2023-12-24",
+                    "registration_time": "2024-12-24 11:41:52.368897",
+                    "date_of_data_entry": "2024-12-24",
+                    "main_principal": 200000.0,
+                    "current_principal": 200000.0,
+                    "interest_rate": 2.0,
+                    "interest_payment_interval_months": 36.0,
+                    "deadline_months": 36.0,
+                    "remark": "",
+                    "upcoming_emi_list": [
+                        {
+                            "date": "2026-12-24 2024-12-24 11:41:52.368897",
+                            "amount": 144000.0,
+                            "done": false,
+                            "lender_name": "anupam",
+                            "id": 2,
+                            "remark": []
+                        },
+                        {
+                            "date": "2029-12-24 2024-12-24 11:41:52.368897",
+                            "amount": 144000.0,
+                            "done": false,
+                            "lender_name": "anupam",
+                            "id": 2,
+                            "remark": []
+                        }
+                    ],
+                    "repayment_list": {},
+                    "Interest_accumulated_till_today": [
+                        0.0,
+                        12.0
+                    ],
+                    "final_amount": 200000.0
+                }
+            },
+            "total_liabilities": 548000.0,
+            "emi_list": {}
+        },
+        "dev": {
+            "active": true,
+            "active_no_of_loan": 1,
+            "loans": {
+                "1": {
+                    "active": true,
+                    "transaction_date": "2023-12-24",
+                    "registration_time": "2024-12-24 11:41:09.963040",
+                    "date_of_data_entry": "2024-12-24",
+                    "main_principal": 200000.0,
+                    "current_principal": 200000.0,
+                    "interest_rate": 2.0,
+                    "interest_payment_interval_months": 6.0,
+                    "deadline_months": 36.0,
+                    "remark": "",
+                    "upcoming_emi_list": [
+                        {
+                            "date": "2024-06-24 2024-12-24 11:41:09.963040",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "dev",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2024-12-24 2024-12-24 11:41:09.963040",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "dev",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2025-06-24 2024-12-24 11:41:09.963040",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "dev",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2025-12-24 2024-12-24 11:41:09.963040",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "dev",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2026-06-24 2024-12-24 11:41:09.963040",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "dev",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2026-12-24 2024-12-24 11:41:09.963040",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "dev",
+                            "id": 1,
+                            "remark": []
+                        },
+                        {
+                            "date": "2027-06-24 2024-12-24 11:41:09.963040",
+                            "amount": 24000.0,
+                            "done": false,
+                            "lender_name": "dev",
+                            "id": 1,
+                            "remark": []
+                        }
+                    ],
+                    "repayment_list": {},
+                    "Interest_accumulated_till_today": [
+                        48000.0,
+                        12.0
+                    ],
+                    "final_amount": 200000.0
+                }
+            },
+            "total_liabilities": 248000.0,
+            "emi_list": {}
+        }
+    }
+}
