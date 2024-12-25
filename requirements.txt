@@ -1,7 +1,6 @@
 streamlit 
 pandas 
 streamlit_option_menu
-os
 datetime
 date
 python>=3.5
