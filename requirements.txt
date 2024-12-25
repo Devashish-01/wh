@@ -2,5 +2,4 @@ streamlit
 pandas 
 streamlit_option_menu
 datetime
-date
 python
