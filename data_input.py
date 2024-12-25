@@ -1,7 +1,7 @@
 import streamlit as st
 from utils import *
 from datetime import date
-import os
+
 
 # -------------------- App Configuration -------------------- #
 st.set_page_config(
