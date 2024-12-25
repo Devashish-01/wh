@@ -3,4 +3,4 @@ pandas
 streamlit_option_menu
 datetime
 date
-python>=3.5
+python
